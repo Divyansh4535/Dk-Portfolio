@@ -117,9 +117,9 @@ const Home = (props) => {
               </p>
               <div className="flex gap-5 mt-5">
                 <a
-                  href="./static/media/Divyansh.pdf"
-                  className="py-2 px-4 sm:py-3 sm:px-8 bg-transparent text-white  border-b-[#189494] bg-[#14d9d8] hover:text-[#1d1d1d] flex items-center justify-center text-xl font-medium rounded-lg cursor-pointer font-hind tracking-wider  transition-all border-b-[4px] hover:brightness-110 hover:-translate-y-[1px] hover:border-b-[6px] active:border-b-[4px]  active:translate-y-[2px]"
-                  download={true}
+                  href="/static/media/resume.html"
+                  className="py-2 px-4 sm:py-3 sm:px-8 bg-transparent text-white border-b-[#189494] bg-[#14d9d8] hover:text-[#1d1d1d] flex items-center justify-center text-xl font-medium rounded-lg cursor-pointer font-hind tracking-wider transition-all border-b-[4px] hover:brightness-110 hover:-translate-y-[1px] hover:border-b-[6px] active:border-b-[4px] active:translate-y-[2px]"
+                  // download
                 >
                   Resume
                 </a>
